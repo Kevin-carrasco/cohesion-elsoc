@@ -1,32 +1,33 @@
 \babel@toc {spanish}{}
 \contentsline {chapter}{\numberline {1}Introducción}{9}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Mapping Social Cohesion}{11}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Descripción General}{11}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Concepto de Cohesión Social}{11}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Operacionalización}{14}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Referencias}{16}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Scanlon-Monash Index of Social Cohesion}{19}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Descripción General}{19}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Concepto de Cohesión Social}{20}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Operacionalización}{22}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Referencias}{23}{section.3.4}%
-\contentsline {chapter}{\numberline {4}Social Cohesion Radar}{25}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Descripción General}{25}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Concepto de Cohesión Social}{26}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Operacionalización}{26}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Referencias}{30}{section.4.4}%
-\contentsline {chapter}{\numberline {5}Civic Engagement and Social Cohesion Report}{31}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Descripción General}{31}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Concepto de Cohesión Social}{32}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Operacionalización}{33}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Referencias}{33}{section.5.4}%
-\contentsline {chapter}{\numberline {6}ECOsociAL}{35}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Descripción General}{35}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Concepto de Cohesión Social}{36}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Operacionalización}{37}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}\emph {La calidad de la convivencia social}}{37}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}\emph {La calidad de la convivencia política}}{39}{subsection.6.3.2}%
-\contentsline {subsection}{\numberline {6.3.3}\emph {Percepción de oportunidades y movilidad social}}{40}{subsection.6.3.3}%
-\contentsline {section}{\numberline {6.4}Referencias}{42}{section.6.4}%
-\contentsline {chapter}{\numberline {7}Conclusiones}{43}{chapter.7}%
-\contentsline {chapter}{Bibliografía}{47}{chapter*.9}%
+\contentsline {chapter}{\numberline {2}Mediciones de Cohesión social en perspectiva internacional}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Sentido de pertenencia}{12}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Confianza en instituciones}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Percepción de justicia}{13}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Participación política}{14}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Foco en el bien común}{15}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Confianza social}{15}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Aceptación de la diversidad}{16}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Redes sociales}{16}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Trato digno}{17}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Satisfacción con la vida, felicidad y expectativas sobre el futuro.}{17}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Calidad de la convivencia social.}{18}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Percepción de oportunidades y movilidad social.}{18}{section.2.12}%
+\contentsline {chapter}{\numberline {3}Dimensiones comunes entre los estudios internacionales e indicadores presentes en ELSOC}{19}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Sentido de pertenencia}{19}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Confianza en instituciones.}{19}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Percepción de justicia}{20}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Participación política}{21}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Foco en el bien común}{22}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Confianza social}{22}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Aceptación de la diversidad}{23}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Redes sociales}{23}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Trato digno}{23}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Satisfacción con la vida, felicidad y expectativas sobre el futuro.}{24}{section.3.10}%
+\contentsline {section}{\numberline {3.11}Calidad de la convivencia social.}{24}{section.3.11}%
+\contentsline {section}{\numberline {3.12}Percepción de oportunidades y movilidad social.}{24}{section.3.12}%
+\contentsline {chapter}{\numberline {4}Propuesta de medición de Cohesión Social con indicadores de ELSOC}{27}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Resumen propuesta de medición}{29}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Horizontal}{29}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Vertical}{30}{section.5.2}%
+\contentsline {chapter}{Bibliografía}{33}{chapter*.5}%
