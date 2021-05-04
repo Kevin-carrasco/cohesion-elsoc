@@ -1,0 +1,20 @@
+---
+name: "Kevin Carrasco Quintanilla"
+output_dir: "."
+navbar:
+  title: "Hacia una propuesta de medición de Cohesión Social con ELSOC - Estudio Longitudinal Social de Chile / COES"
+  left:
+  - text: "Informe"
+    href: ../docs/index.html
+  right:
+  - icon: fa-envelope fa-lg
+    href: kevin.carrasco@ug.uchile.cl
+  - icon: far fa-file-excel
+    href: https://docs.google.com/spreadsheets/d/1xY7C8s9iFd0yDXkANDL-VuMZCIn4Da5f/edit#gid=457209288
+  - icon: fab fa-github
+    href: http://github.com/kevin-carrasco/cohesion-elsoc
+output:
+  html_document:
+    theme: cerulean # yeti  spacelab simplex sandstone cosmo cerulean paper darkly flatly lumen readable
+    css: '../style.css'
+---
