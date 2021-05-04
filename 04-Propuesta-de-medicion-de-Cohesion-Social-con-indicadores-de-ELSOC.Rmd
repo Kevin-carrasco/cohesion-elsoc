@@ -30,12 +30,12 @@ kable(tab,table_format,booktabs = T, linesep = "",col.names =  c("Dimensión","S
     position = "center",
     font_size = 10,
     bootstrap_options=c("striped", "bordered")) %>%
-  column_spec(column = 1, width = "3 cm", ) %>%
-  column_spec(column = 2,width = "4 cm") %>%
-  column_spec(column = 3,width = "7 cm") %>%
-  column_spec(column = 4,width = "7 cm") %>%
-  column_spec(column = 5,width = "7 cm") %>%
-  column_spec(column = 6,width = "7 cm") %>%
+  column_spec(column = 1,width = "2 cm") %>%
+  column_spec(column = 2,width = "2 cm") %>%
+  column_spec(column = 3,width = "4 cm") %>%
+  column_spec(column = 4,width = "2 cm") %>%
+  column_spec(column = 5,width = "3 cm") %>%
+  column_spec(column = 6,width = "2 cm") %>%
   collapse_rows(columns = 1:2,valign = "middle")
 ```
 

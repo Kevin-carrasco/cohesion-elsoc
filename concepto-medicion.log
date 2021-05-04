@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.5.2)  3 MAY 2021 18:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.5.2)  3 MAY 2021 23:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -957,12 +957,141 @@ Cap\'{\i }tulo 4.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 318.
 
-Overfull \hbox (567.36241pt too wide) in paragraph at lines 318--431
- [][] 
+Overfull \vbox (12.0pt too high) detected at line 430
  []
 
 
-LaTeX Warning: Float too large for page by 2094.63074pt on input line 431.
+Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
+ []
+
+
+Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
+ []
+
+
+Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
+ []
+
+
+Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
+ []
+
+
+Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
+ []
+
+
+Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
+ []
+
+
+Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
+ []
+
+
+Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
+ []
+
+
+Overfull \hbox (14.1706pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 ces|Frecuentemente|Muy 
+ []
+
+
+Overfull \hbox (14.1706pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 ces|Frecuentemente|Muy 
+ []
+
+
+Overfull \hbox (14.1706pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 ces|Frecuentemente|Muy 
+ []
+
+
+Overfull \hbox (14.1706pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 ces|Frecuentemente|Muy 
+ []
+
+
+Overfull \hbox (14.1706pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 ces|Frecuentemente|Muy 
+ []
+
+
+Overfull \hbox (14.1706pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 ces|Frecuentemente|Muy 
+ []
+
+
+Overfull \hbox (12.85075pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 co|Algo|Bastante|Mucho|  
+ []
+
+
+Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
+ []
+
+
+Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
+ []
+
+
+Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
+ []
+
+
+Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
+ []
+
+
+Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
+ []
+
+
+Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
+ []
+
+
+Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
+ []
+
+
+Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
+ []
+
+
+Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
+ []
+
+
+Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
+\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
+ []
+
+
+Overfull \hbox (10.87372pt too wide) in paragraph at lines 430--430
+[]|\T1/ptm/m/n/10 Comportamiento 
+ []
+
+
+LaTeX Warning: Float too large for page by 4962.62555pt on input line 431.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1028,7 +1157,7 @@ Package rerunfilecheck Info: File `concepto-medicion.out' has not changed.
 Here is how much of TeX's memory you used:
  15672 strings out of 480936
  236625 string characters out of 5904906
- 688187 words of memory out of 5000000
+ 706197 words of memory out of 5000000
  32465 multiletter control sequences out of 15000+600000
  463361 words of font info for 86 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1039,7 +1168,7 @@ c}<c:/Users/kevin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb
 /utmr8a.pfb><c:/Users/kevin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/
 times/utmr8a.pfb><c:/Users/kevin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on concepto-medicion.pdf (33 pages, 126724 bytes).
+Output written on concepto-medicion.pdf (33 pages, 127088 bytes).
 PDF statistics:
  407 PDF objects out of 1000 (max. 8388607)
  361 compressed objects within 4 object streams
