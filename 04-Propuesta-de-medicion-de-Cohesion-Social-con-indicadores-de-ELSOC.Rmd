@@ -10,6 +10,7 @@ output:
 
 La siguiente propuesta de medición de cohesión social agrupa los principales indicadores de ELSOC en dos dimensiones. Por un lado, se abarca un aspecto más general de la cohesión social al intentar aunar distintos indicadores que miden una vinculación vertical de los individuos con las instituciones y con el funcionamiento del país. Por otro lado, se agrupan indicadores más específicos que miden una vinculación horizontal de los individuos con el territorio y con otros individuos. Todos los indicadores de esta propuesta de medición están presentes en las cuatro olas de ELSOC (2016-2019)
 
+
 ```{r message=FALSE, warning=FALSE, include=FALSE, echo=FALSE}
 pacman::p_load(knitr, kableExtra, dplyr)
 ```
@@ -21,9 +22,9 @@ table_format = if(is_latex_output()) {
 }
 ```
 ```{r echo=FALSE}
-tab <- read.csv(file = "table.csv",header = 1,sep = ";",encoding = "UTF-8")
+tab <- read.csv(file = "table1.csv",header = 1,sep = ";",encoding = "UTF-8")
 
-kable(tab,table_format,booktabs = T, linesep = "",col.names =  c("Dimensión","Subdimensión","Encabezado", "Indicador", "Categoría de respuesta", "Código ELSOC"), caption = "Medición de cohesión social con ELSOC.") %>%
+kable(tab,table_format,booktabs = T, linesep = "",col.names =  c("Dimensión", "Subdimensión", "Encabezado",  "Indicador", "Código ELSOC"), caption = "Confianza en instituciones y satisfacción con la democracia.") %>%
   kable_styling(
     full_width = T,
     latex_options = c("hold_position"),
@@ -32,10 +33,153 @@ kable(tab,table_format,booktabs = T, linesep = "",col.names =  c("Dimensión","S
     bootstrap_options=c("striped", "bordered")) %>%
   column_spec(column = 1,width = "2 cm") %>%
   column_spec(column = 2,width = "2 cm") %>%
-  column_spec(column = 3,width = "4 cm") %>%
-  column_spec(column = 4,width = "2 cm") %>%
-  column_spec(column = 5,width = "3 cm") %>%
-  column_spec(column = 6,width = "2 cm") %>%
-  collapse_rows(columns = 1:2,valign = "middle")
+  column_spec(column = 3,width = "5 cm") %>%
+  column_spec(column = 4,width = "4 cm") %>%
+  column_spec(column = 5,width = "2 cm") %>%
+  collapse_rows(columns = 1:3,valign = "middle")
 ```
 
+
+```{r message=FALSE, warning=FALSE, include=FALSE, echo=FALSE}
+pacman::p_load(knitr, kableExtra, dplyr)
+```
+```{r echo=FALSE}
+table_format = if(is_latex_output()) {
+  "latex"
+} else if(is_html_output()) {
+  "html"
+}
+```
+```{r echo=FALSE}
+tab <- read.csv(file = "table2.csv",header = 1,sep = ";",encoding = "UTF-8")
+
+kable(tab,table_format,booktabs = T, linesep = "",col.names =  c("Dimensión","Subdimensión","Encabezado", "Indicador", "Código ELSOC"), caption = "Participación política.") %>%
+  kable_styling(
+    full_width = T,
+    latex_options = c("hold_position"),
+    position = "center",
+    font_size = 10,
+    bootstrap_options=c("striped", "bordered")) %>%
+  column_spec(column = 1,width = "2 cm") %>%
+  column_spec(column = 2,width = "2 cm") %>%
+  column_spec(column = 3,width = "5 cm") %>%
+  column_spec(column = 4,width = "4 cm") %>%
+  column_spec(column = 5,width = "2 cm") %>%
+  collapse_rows(columns = 1:3,valign = "middle")
+```
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE, echo=FALSE}
+pacman::p_load(knitr, kableExtra, dplyr)
+```
+```{r echo=FALSE}
+table_format = if(is_latex_output()) {
+  "latex"
+} else if(is_html_output()) {
+  "html"
+}
+```
+```{r echo=FALSE}
+tab <- read.csv(file = "table3.csv",header = 1,sep = ";",encoding = "UTF-8")
+
+kable(tab,table_format,booktabs = T, linesep = "",col.names =  c("Dimensión","Subdimensión","Encabezado", "Indicador", "Código ELSOC"), caption = "Percepción de justicia.") %>%
+  kable_styling(
+    full_width = T,
+    latex_options = c("hold_position"),
+    position = "center",
+    font_size = 10,
+    bootstrap_options=c("striped", "bordered")) %>%
+  column_spec(column = 1,width = "2 cm") %>%
+  column_spec(column = 2,width = "2 cm") %>%
+  column_spec(column = 3,width = "5 cm") %>%
+  column_spec(column = 4,width = "4 cm") %>%
+  column_spec(column = 5,width = "2 cm") %>%
+  collapse_rows(columns = 1:3,valign = "middle")
+```
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE, echo=FALSE}
+pacman::p_load(knitr, kableExtra, dplyr)
+```
+```{r echo=FALSE}
+table_format = if(is_latex_output()) {
+  "latex"
+} else if(is_html_output()) {
+  "html"
+}
+```
+```{r echo=FALSE}
+tab <- read.csv(file = "table4.csv",header = 1,sep = ";",encoding = "UTF-8")
+
+kable(tab,table_format,booktabs = T, linesep = "",col.names =  c("Dimensión","Subdimensión","Encabezado", "Indicador", "Código ELSOC"), caption = "Sentido de pertenencia.") %>%
+  kable_styling(
+    full_width = T,
+    latex_options = c("hold_position"),
+    position = "center",
+    font_size = 10,
+    bootstrap_options=c("striped", "bordered")) %>%
+  column_spec(column = 1,width = "2 cm") %>%
+  column_spec(column = 2,width = "2 cm") %>%
+  column_spec(column = 3,width = "5 cm") %>%
+  column_spec(column = 4,width = "4 cm") %>%
+  column_spec(column = 5,width = "2 cm") %>%
+  collapse_rows(columns = 1:3,valign = "middle")
+```
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE, echo=FALSE}
+pacman::p_load(knitr, kableExtra, dplyr)
+```
+```{r echo=FALSE}
+table_format = if(is_latex_output()) {
+  "latex"
+} else if(is_html_output()) {
+  "html"
+}
+```
+```{r echo=FALSE}
+tab <- read.csv(file = "table5.csv",header = 1,sep = ";",encoding = "UTF-8")
+
+kable(tab,table_format,booktabs = T, linesep = "",col.names =  c("Dimensión","Subdimensión","Encabezado", "Indicador", "Código ELSOC"), caption = "Calidad de la vida en el vecindario.") %>%
+  kable_styling(
+    full_width = T,
+    latex_options = c("hold_position"),
+    position = "center",
+    font_size = 10,
+    bootstrap_options=c("striped", "bordered")) %>%
+  column_spec(column = 1,width = "2 cm") %>%
+  column_spec(column = 2,width = "2 cm") %>%
+  column_spec(column = 3,width = "6 cm") %>%
+  column_spec(column = 4,width = "4 cm") %>%
+  column_spec(column = 5,width = "2 cm") %>%
+  collapse_rows(columns = 1:3,valign = "middle")
+```
+
+ 
+```{r message=FALSE, warning=FALSE, include=FALSE, echo=FALSE}
+pacman::p_load(knitr, kableExtra, dplyr)
+```
+```{r echo=FALSE}
+table_format = if(is_latex_output()) {
+  "latex"
+} else if(is_html_output()) {
+  "html"
+}
+```
+```{r echo=FALSE}
+tab <- read.csv(file = "table6.csv",header = 1,sep = ";",encoding = "UTF-8")
+
+kable(tab,table_format,booktabs = T, linesep = "",col.names =  c("Dimensión","Subdimensión","Encabezado", "Indicador", "Código ELSOC"), caption = "Redes sociales.") %>%
+  kable_styling(
+    full_width = T,
+    latex_options = c("hold_position"),
+    position = "center",
+    font_size = 10,
+    bootstrap_options=c("striped", "bordered")) %>%
+  column_spec(column = 1,width = "2 cm") %>%
+  column_spec(column = 2,width = "2 cm") %>%
+  column_spec(column = 3,width = "5 cm") %>%
+  column_spec(column = 4,width = "4 cm") %>%
+  column_spec(column = 5,width = "2 cm") %>%
+  collapse_rows(columns = 1:3,valign = "middle")
+```

@@ -27,7 +27,7 @@
 \contentsline {section}{\numberline {3.11}Calidad de la convivencia social.}{24}{section.3.11}%
 \contentsline {section}{\numberline {3.12}Percepción de oportunidades y movilidad social.}{24}{section.3.12}%
 \contentsline {chapter}{\numberline {4}Propuesta de medición de Cohesión Social con indicadores de ELSOC}{27}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Resumen propuesta de medición}{29}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Horizontal}{29}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Vertical}{30}{section.5.2}%
-\contentsline {chapter}{Bibliografía}{33}{chapter*.5}%
+\contentsline {chapter}{\numberline {5}Resumen propuesta de medición}{31}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Horizontal}{31}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Vertical}{32}{section.5.2}%
+\contentsline {chapter}{Bibliografía}{35}{chapter*.10}%

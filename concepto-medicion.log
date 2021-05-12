@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.5.2)  3 MAY 2021 23:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.5.2)  12 MAY 2021 13:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -957,184 +957,93 @@ Cap\'{\i }tulo 4.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 318.
 
-Overfull \vbox (12.0pt too high) detected at line 430
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \vbox (12.0pt too high) detected at line 390
  []
 
 
-Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
+Overfull \vbox (24.0pt too high) detected at line 390
  []
 
 
-Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \vbox (12.0pt too high) detected at line 407
  []
 
 
-Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (14.76006pt too wide) in paragraph at lines 415--458
+ [][] 
  []
 
 
-Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
- []
-
-
-Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
- []
-
-
-Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
- []
-
-
-Overfull \hbox (65.71008pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 leer)|Nada|Poca|Algo|Bastante|Mucha|  
- []
-
-
-Overfull \hbox (14.1706pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 ces|Frecuentemente|Muy 
- []
-
-
-Overfull \hbox (14.1706pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 ces|Frecuentemente|Muy 
- []
-
-
-Overfull \hbox (14.1706pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 ces|Frecuentemente|Muy 
- []
-
-
-Overfull \hbox (14.1706pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 ces|Frecuentemente|Muy 
- []
-
-
-Overfull \hbox (14.1706pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 ces|Frecuentemente|Muy 
- []
-
-
-Overfull \hbox (14.1706pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 ces|Frecuentemente|Muy 
- []
-
-
-Overfull \hbox (12.85075pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 co|Algo|Bastante|Mucho|  
- []
-
-
-Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
- []
-
-
-Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
- []
-
-
-Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
- []
-
-
-Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
- []
-
-
-Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
- []
-
-
-Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
- []
-
-
-Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
- []
-
-
-Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
- []
-
-
-Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
- []
-
-
-Overfull \hbox (19.49048pt too wide) in paragraph at lines 430--430
-\T1/ptm/m/n/10 cho|Satisfecho|Totalmente 
- []
-
-
-Overfull \hbox (10.87372pt too wide) in paragraph at lines 430--430
+Overfull \hbox (10.87372pt too wide) in paragraph at lines 491--491
 []|\T1/ptm/m/n/10 Comportamiento 
  []
-
-
-LaTeX Warning: Float too large for page by 4962.62555pt on input line 431.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [27]
-LaTeX Info: Redefining \. on input line 434.
-LaTeX Info: Redefining \% on input line 434.
+
+LaTeX Warning: Text page 28 contains only floats.
+
+LaTeX Info: Redefining \. on input line 495.
+LaTeX Info: Redefining \% on input line 495.
 
 Overfull \hbox (30.90715pt too wide) has occurred while \output is active
 \T1/ptm/m/n/12 28 \T1/ptm/m/sl/12 CAPÍTULO 4.  PROPUESTA DE MEDICIÓN DE COHESIÓ
 N SOCIAL CON INDICADORES DE ELSOC
  []
 
-[28]
+[28] [29]
+LaTeX Info: Redefining \. on input line 495.
+LaTeX Info: Redefining \% on input line 495.
+
+Overfull \hbox (30.90715pt too wide) has occurred while \output is active
+\T1/ptm/m/n/12 30 \T1/ptm/m/sl/12 CAPÍTULO 4.  PROPUESTA DE MEDICIÓN DE COHESIÓ
+N SOCIAL CON INDICADORES DE ELSOC
+ []
+
+[30]
 Cap\'{\i }tulo 5.
-<inputs/images/horizontal.png, id=331, 557.83406pt x 353.06906pt>
+<inputs/images/horizontal.png, id=349, 557.83406pt x 353.06906pt>
 File: inputs/images/horizontal.png Graphic file (type png)
 <use inputs/images/horizontal.png>
-Package pdftex.def Info: inputs/images/horizontal.png  used on input line 445.
+Package pdftex.def Info: inputs/images/horizontal.png  used on input line 506.
 (pdftex.def)             Requested size: 500.49686pt x 316.7787pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[29
+[31
 
 ]
-<inputs/images/vertical.png, id=339, 539.76656pt x 353.06906pt>
+<inputs/images/vertical.png, id=358, 539.76656pt x 353.06906pt>
 File: inputs/images/vertical.png Graphic file (type png)
 <use inputs/images/vertical.png>
-Package pdftex.def Info: inputs/images/vertical.png  used on input line 452.
+Package pdftex.def Info: inputs/images/vertical.png  used on input line 513.
 (pdftex.def)             Requested size: 500.49521pt x 327.38109pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 455.
-LaTeX Info: Redefining \% on input line 455.
-[30 <./inputs/images/horizontal.png>]
-LaTeX Info: Redefining \. on input line 455.
-LaTeX Info: Redefining \% on input line 455.
-[31 <./inputs/images/vertical.png>]
-LaTeX Info: Redefining \. on input line 455.
-LaTeX Info: Redefining \% on input line 455.
-[32
+LaTeX Info: Redefining \. on input line 516.
+LaTeX Info: Redefining \% on input line 516.
+[32 <./inputs/images/horizontal.png>]
+LaTeX Info: Redefining \. on input line 516.
+LaTeX Info: Redefining \% on input line 516.
+[33 <./inputs/images/vertical.png>]
+LaTeX Info: Redefining \. on input line 516.
+LaTeX Info: Redefining \% on input line 516.
+[34
 
 ]
 
@@ -1147,31 +1056,31 @@ Package caption Warning: Unused \captionsetup[ table] on input line \caption@op
 t@ table@lineno .
 See the caption package documentation for explanation.
 
-[33] (./concepto-medicion.aux
+[35] (./concepto-medicion.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `concepto-medicion.out' has not changed.
-(rerunfilecheck)             Checksum: CC65FE15F6D42C4B613D58870AD4F0F0;6736.
+(rerunfilecheck)             Checksum: 598132D68AA61E0727564117F75945E9;6737.
  ) 
 Here is how much of TeX's memory you used:
- 15672 strings out of 480936
- 236625 string characters out of 5904906
- 706197 words of memory out of 5000000
- 32465 multiletter control sequences out of 15000+600000
+ 15614 strings out of 480936
+ 236125 string characters out of 5904906
+ 623955 words of memory out of 5000000
+ 32400 multiletter control sequences out of 15000+600000
  463361 words of font info for 86 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 71i,19n,74p,2376b,676s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,20n,74p,2376b,676s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/kevin/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.en
 c}<c:/Users/kevin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb
 8a.pfb><c:/Users/kevin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/times
 /utmr8a.pfb><c:/Users/kevin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/
 times/utmr8a.pfb><c:/Users/kevin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on concepto-medicion.pdf (33 pages, 127088 bytes).
+Output written on concepto-medicion.pdf (35 pages, 128035 bytes).
 PDF statistics:
- 407 PDF objects out of 1000 (max. 8388607)
- 361 compressed objects within 4 object streams
- 111 named destinations out of 1000 (max. 500000)
+ 426 PDF objects out of 1000 (max. 8388607)
+ 378 compressed objects within 4 object streams
+ 118 named destinations out of 1000 (max. 500000)
  267 words of extra memory for PDF output out of 10000 (max. 10000000)
 
