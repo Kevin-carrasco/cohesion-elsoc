@@ -1,8 +1,0 @@
----
-title: "Medición de cohesión social con ELSOC"
-author: "Kevin Carrasco"
-date: "04-05-2021"
-output: html_document
----
-
-Este sitio agrupa los principales elementos del informe de Medición de cohesión social con ELSOC. En la esquina superior derecha hay un enlace al informe, un enlace a la planilla y un enlace al repositorio Github
