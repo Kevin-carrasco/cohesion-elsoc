@@ -1,3 +1,3 @@
 # Medición de cohesión social con ELSOC
 
-Link al informe: kevin-carrasco.github.io/cohesion-elsoc
+Link al informe: [https://juancarloscastillo.github.io/cohesion-elsoc/](https://juancarloscastillo.github.io/cohesion-elsoc/)
